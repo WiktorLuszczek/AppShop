@@ -1,0 +1,34 @@
+{
+  "orders": [
+    {
+      "id": 121,
+      "details": "pepsi *2",
+      "isReady": true
+    },
+    {
+      "id": 122,
+      "details": "pepsi *2",
+      "isReady": false
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "name": "Adam",
+      "surname": "Adamowski",
+      "email": "aadamowski@pl.pl"
+    },
+    {
+      "id": 2,
+      "name": "Wiktor",
+      "surname": "Lusz",
+      "email": "wlusz@gmai.com"
+    },
+    {
+      "name": "Wiktor",
+      "surname": "Łuszczek",
+      "email": "wiklusz@g.co",
+      "id": 3
+    }
+  ]
+}

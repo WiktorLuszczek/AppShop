@@ -1,0 +1,61 @@
+{
+  "orders": [
+    {
+      "id": 121,
+      "details": "pepsi *2",
+      "isReady": false
+    },
+    {
+      "id": 122,
+      "details": "pepsi *2",
+      "isReady": false
+    },
+    {
+      "id": 123,
+      "details": "pepsi *2",
+      "isReady": true
+    },
+    {
+      "id": 124,
+      "details": "pepsi *2",
+      "isReady": true
+    },
+    {
+      "id": 125,
+      "details": "pepsi *2",
+      "isReady": false
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "name": "Adam",
+      "surname": "Jochemczyk",
+      "email": "mymail@gmai.com"
+    },
+    {
+      "id": 2,
+      "name": "Wiktor",
+      "surname": "Jochemczyk",
+      "email": "mymail@gmai.com"
+    },
+    {
+      "id": 3,
+      "name": "Piotr",
+      "surname": "Jochemczyk",
+      "email": "mymail@gmai.com"
+    },
+    {
+      "id": 4,
+      "name": "Bartosz",
+      "surname": "Jochemczyk",
+      "email": "mymail@gmai.com"
+    },
+    {
+      "id": 5,
+      "name": "Tomasz",
+      "surname": "Jochemczyk",
+      "email": "mymail@gmai.com"
+    }
+  ]
+}
